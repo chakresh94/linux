@@ -1,5 +1,6 @@
 
 ls -a
 mkdir
-awk
-cut
+pwd
+touch
+cp
